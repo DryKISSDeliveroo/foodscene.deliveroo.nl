@@ -295,7 +295,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/recepten/last-minute-toetjes-stress-not-anymore.html</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/recepten/hoe-je-een-caipirinha-maakt.html</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/recepten/last-minute-toetjes-stress-not-anymore.html</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8299,6 +8311,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/recepten.html</loc>
+    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/restaurantprofiel.html</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8306,12 +8324,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
-    <lastmod>2018-12-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/recepten.html</loc>
     <lastmod>2018-12-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
