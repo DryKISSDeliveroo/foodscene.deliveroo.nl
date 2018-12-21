@@ -2503,6 +2503,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/sharing-is-caring-met-deliveroo-for-charity.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/5x-leukste-restaurants-op-deliveroo-in-arnhem.html</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3206,6 +3212,36 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/toetjes-recept.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/voedselbank.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/voedselpakketten.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/het-goede-doel.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/charity.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kerstmis.html</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6421,12 +6457,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kerstmis.html</loc>
-    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/kerstdiner.html</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8329,6 +8359,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/jorina.html</loc>
+    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/romee.html</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8336,12 +8372,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/romee-slothouber.html</loc>
-    <lastmod>2018-12-21T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/jorina.html</loc>
     <lastmod>2018-12-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
