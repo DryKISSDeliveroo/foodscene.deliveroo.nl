@@ -3499,6 +3499,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-delft.html</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/waar-moet-je-bestellen-in-delft.html</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/ben-jerry-s.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6350,18 +6362,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/desserts.html</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-delft.html</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/waar-moet-je-bestellen-in-delft.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
