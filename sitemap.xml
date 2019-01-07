@@ -3319,6 +3319,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-breda.html</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/favoriet-uit-amersfoort.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6344,12 +6350,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/desserts.html</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-breda.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
