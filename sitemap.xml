@@ -3331,6 +3331,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-tilburg.html</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/favoriete-restaurant-van-tilburg.html</loc>
+    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-utrecht.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3458,18 +3470,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/verborgen-pareltjes.html</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-restaurants-in-tilburg.html</loc>
-    <lastmod>2019-01-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/favoriete-restaurant-van-tilburg.html</loc>
     <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
