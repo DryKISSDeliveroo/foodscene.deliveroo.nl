@@ -3265,48 +3265,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/blue-monday.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/happy-monday.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/maandag.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/eten-waar-je-gelukkig-van-wordt.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kiplekker.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/eet-je-gelukkig.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/voedzaam-eten.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/deliveroo-awards.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3440,6 +3398,48 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/favoriete-restaurant-van-utrecht.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/blue-monday.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/happy-monday.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/maandag.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/eten-waar-je-gelukkig-van-wordt.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kiplekker.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/eet-je-gelukkig.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/voedzaam-eten.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8707,13 +8707,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/mila-diecken.html</loc>
+    <loc>https://foodscene.deliveroo.nl/romee.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/romee.html</loc>
+    <loc>https://foodscene.deliveroo.nl/mila-diecken.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9955,6 +9955,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/romee/page/2.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/romee/page/3.html</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/mila-diecken/page/2.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9968,18 +9980,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/mila-diecken/page/4.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/romee/page/2.html</loc>
-    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/romee/page/3.html</loc>
     <lastmod>2019-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
