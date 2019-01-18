@@ -3277,7 +3277,43 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/2019-goede-voornemens-gezond-eten-lekkerste-snacks-bestellen-hier-moet-je-bestellen-nieuwjaar.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/2019.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/goede-voornemens.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/gezond-eten.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-snacks.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bestellen.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/hier-moet-je-bestellen.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/nieuwjaar.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4214,12 +4250,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/nog-meer-keuze.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bestellen.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5276,12 +5306,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/fit.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/gezond-eten.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8821,6 +8845,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bestellen/page/2.html</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/deliveroo-awards/page/2.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9098,12 +9128,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/amsterdam/page/18.html</loc>
-    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bestellen/page/2.html</loc>
     <lastmod>2019-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
