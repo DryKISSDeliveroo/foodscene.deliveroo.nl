@@ -1381,6 +1381,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties/gluten-de-groeten.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties/gezond-overheerlijk-de-beste-gerechten-met-zalm.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3385,6 +3391,54 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/glutenvrij.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/glutenvrij-bestellen.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/gluten.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/eten-bestellen.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/glutenvrij-eten-bestellen.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/glutenallergie.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/glutenintolerantie.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/valentijn.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3914,12 +3968,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/awards.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4532,12 +4580,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/how-i-met-your-mother.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/eten-bestellen.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6482,12 +6524,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/club-vers.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/glutenvrij.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9097,6 +9133,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/recepten.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9110,12 +9152,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9229,6 +9265,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/2.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/3.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/4.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/5.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/bestellen/page/2.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9266,30 +9326,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/waar-moet-je-bestellen/page/2.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/2.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/3.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/4.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/5.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10165,54 +10201,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/2.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/3.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/4.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/5.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/6.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/7.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/8.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
-    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties/page/2.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10376,6 +10364,54 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties/page/29.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/2.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/3.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/4.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/5.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/6.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/7.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/restaurantprofiel/page/8.html</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
     <lastmod>2019-02-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
