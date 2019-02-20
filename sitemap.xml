@@ -3451,6 +3451,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-story.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/het-verhaal-achter-sushito.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/deliveroo.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7291,12 +7309,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/het-verhaal-achter.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9319,6 +9331,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/2.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/3.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/4.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/5.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/6.html</loc>
+    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/2.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9860,36 +9902,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/curry/page/2.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/2.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/3.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/4.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/5.html</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/kitchen-stories/page/6.html</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
