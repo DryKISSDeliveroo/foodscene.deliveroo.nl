@@ -2215,6 +2215,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/pas-je-menu-aan-voor-de-zomer.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/10-keer-nieuw-op-deliveroo.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2228,6 +2234,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/de-beste-restaurants-van-rome-op-deliveroo.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/haal-het-meeste-uit-je-online-account.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -2594,6 +2606,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/deliveroo-awards-in-tilburg.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/rider-deals.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3625,6 +3643,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/sales.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/riders.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorging.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorgers.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/bier.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3668,6 +3710,30 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/speciaalbiertjes.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/orders.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/home.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/portal.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo-for-business.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4633,24 +4699,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/sales.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/orders.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorging.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/marketeer.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4658,12 +4706,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/klantenservice.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo-for-business.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5396,12 +5438,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/virtual-brands.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/riders.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -9289,12 +9325,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorgers.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/bezorgen-deliveroo.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -9973,6 +10003,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/sales/page/2.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/2.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/orders/page/2.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/vegan/page/2.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10058,24 +10106,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/waar-moet-je-bestellen/page/2.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/sales/page/2.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/orders/page/2.html</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/2.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11180,6 +11210,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/romee/page/6.html</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/romee/page/7.html</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
