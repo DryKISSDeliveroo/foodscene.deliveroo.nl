@@ -2017,6 +2017,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/i-love-mama.html</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/all-the-single-foodies.html</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3296,6 +3302,36 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/about/</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/moederdag.html</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/mama.html</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/moederdag-cadeau.html</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/origineel-moederdag-cadeau.html</loc>
+    <lastmod>2019-05-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/12-mei.html</loc>
     <lastmod>2019-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
