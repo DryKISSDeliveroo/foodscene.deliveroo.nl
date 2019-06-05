@@ -2431,6 +2431,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/valt-hier-nog-iets-te-snacken.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/de-favorieten-lunches-van-deliveroo-medewerkers.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3356,6 +3362,36 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/about/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/de-beste-snacks.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/snacks-om-te-bestellen.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/hier-bestel-je-de-lekkerste-snacks.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/borrelhappen-bestellen.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/vrijmibo.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -8971,12 +9007,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/vrijmibo.html</loc>
-    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/eten-betellen.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11432,6 +11462,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/romee/page/7.html</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/romee/page/8.html</loc>
     <lastmod>2019-06-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
