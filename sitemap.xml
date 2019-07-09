@@ -1885,6 +1885,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/het-is-national-hotdog-day-en-dat-vieren-wij.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/pizza-party-dag-waar-wacht-je-nog-op.html</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3409,6 +3415,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-hotdogs.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/waar-eet-je-de-lekkerste-hotdogs.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/hotdogs-bestellen.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/national-hotdog-day.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/culinaire-hotdogs.html</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/deals.html</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4112,12 +4148,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/vegan-op-deliveroo.html</loc>
-    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-hotdogs.html</loc>
     <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
