@@ -2011,6 +2011,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/10-x-nieuw-bij-deliveroo.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/de-food-trends-voor-2018-voorspeld-door-alle-internationale-collega-s-van-deliveroo.html</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3434,6 +3440,48 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/about/</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/nieuwste-eet-hotspots.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/hotspots-amsterdam.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/nieuw-bij-deliveroo.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/avocado-show-bestellen.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/fou-fow-ramen-bestellen.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/nieuwe-bestel-hotspots.html</loc>
+    <lastmod>2019-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bestellen-in-amsterdam.html</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
