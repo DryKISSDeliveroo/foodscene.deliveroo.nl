@@ -3469,13 +3469,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/wat-eten-vandaag.html</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bestellen-voor-een-week.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/bestellen.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3493,13 +3487,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/healthy-eten.html</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/brak-eten.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/healthy.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4021,12 +4009,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/healthy.html</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/gezond-eten.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4130,12 +4112,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/winnaar-poke-contest.html</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bestellen.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10567,6 +10543,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bestellen/page/2.html</loc>
+    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/eten-bestellen/page/2.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10592,12 +10574,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/gezond/page/3.html</loc>
-    <lastmod>2019-08-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bestellen/page/2.html</loc>
     <lastmod>2019-08-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
