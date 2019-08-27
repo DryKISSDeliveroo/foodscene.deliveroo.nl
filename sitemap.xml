@@ -3469,7 +3469,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/broodje-bestellen.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/broodjes.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3481,31 +3481,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/beste-broodjeszaken.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/broodjeszaken.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lekkerste-broodjes.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/lunch-amsterdam.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lunch-in-amsterdam.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/lunch-rotterdam.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lunch-in-rotterdam.html</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/lunch-in-leiden.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/lunch-leiden.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5954,12 +5948,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/doner.html</loc>
-    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/broodjes.html</loc>
     <lastmod>2019-08-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
