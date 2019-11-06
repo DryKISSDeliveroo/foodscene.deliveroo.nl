@@ -2419,6 +2419,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/voorwaarden-ritos-golden-ticket.html</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/pas-je-menu-aan-voor-de-zomer.html</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -6782,6 +6788,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/aanbod.html</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ritos.html</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/golden.html</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ticket.html</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11924,6 +11948,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/19.html</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/page/20.html</loc>
     <lastmod>2019-11-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
