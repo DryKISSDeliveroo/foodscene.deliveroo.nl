@@ -2215,6 +2215,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/ron-blaauw-streetfood-night.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/10-keer-nieuw-op-deliveroo.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3589,6 +3595,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ron-blaauw.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/streetfood.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/event.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/cocktails.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ron-gastrobar.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/contest.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3644,12 +3686,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/dance.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/event.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4154,12 +4190,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/restaurant.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6565,12 +6595,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ron-blaauw.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/giftcard.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -8666,12 +8690,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/bangkok.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/streetfood.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10897,6 +10915,48 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/2.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/3.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/4.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/5.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/6.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/7.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/8.html</loc>
+    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/soep/page/2.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11048,48 +11108,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/restaurant/page/2.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/2.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/3.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/4.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/5.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/6.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/7.html</loc>
-    <lastmod>2019-11-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deliveroo/page/8.html</loc>
     <lastmod>2019-11-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
