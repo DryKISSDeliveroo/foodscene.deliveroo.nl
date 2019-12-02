@@ -1933,6 +1933,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/voorwaardendecembertickets.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/the-story-behind-the-dish-dim-sum.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3583,6 +3589,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ritos.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/golden.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3596,12 +3608,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/algemene-voorwaarden.html</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ritos.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
