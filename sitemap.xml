@@ -1933,7 +1933,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/food-trends/voorwaardendecembertickets.html</loc>
+    <loc>https://foodscene.deliveroo.nl/food-trends/goldengiftweeks.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3589,25 +3589,31 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ritos.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/golden-gift-weeks.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/golden.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/deals.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ticket.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/cadeautjes.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/algemene-voorwaarden.html</loc>
+    <loc>https://foodscene.deliveroo.nl/tag/december.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/korting.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3805,19 +3811,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/deals.html</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/kater.html</loc>
-    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/korting.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4184,6 +4178,30 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/culinaire-hotdogs.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/golden.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ticket.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/algemene-voorwaarden.html</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ritos.html</loc>
     <lastmod>2019-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
