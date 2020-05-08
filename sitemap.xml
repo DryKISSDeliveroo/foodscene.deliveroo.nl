@@ -3631,6 +3631,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/moederdag.html</loc>
+    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/brunch.html</loc>
+    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/cadeau.html</loc>
+    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/fine-dining.html</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4651,12 +4669,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/moederdag.html</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/mama.html</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4838,12 +4850,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/paasontbijt.html</loc>
-    <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/brunch.html</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
