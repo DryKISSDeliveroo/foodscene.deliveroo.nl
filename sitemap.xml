@@ -3085,6 +3085,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/algemene-voorwaarden-gratis-bezorging.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/promoties/proef-de-wereld-op-deliveroo-voor-miles.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3667,6 +3673,66 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/algemene.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/voorwaarden.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/terms.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/conditions.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/gratis.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorging.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/nieuwe.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/klanten.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/free.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/delivery.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/tandc.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3872,12 +3938,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/jaar-lang-gratis-poke-bowls.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/terms.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -4190,24 +4250,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/eten-tegen-een-prikkie.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/conditions.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/algemene.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/voorwaarden.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5084,12 +5126,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/orders.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorging.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -6649,12 +6685,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/gratis.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/1000-gratis-pizza-s.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -7052,12 +7082,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/service.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/delivery.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10969,6 +10993,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/terms.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10994,12 +11024,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/recepten.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11144,6 +11168,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/deliveroo-italie.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/2.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/3.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11414,18 +11450,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/orders/page/2.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/2.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/bezorging/page/3.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11809,6 +11833,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/archive/2020/page/2.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/archive/2019/page/2.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12157,6 +12187,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/terms/page/2.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12494,12 +12530,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/maaltijden-inspiraties/page/29.html</loc>
-    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
     <lastmod>2020-11-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
