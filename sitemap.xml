@@ -2755,6 +2755,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/het-beste-veganistische-eten-bezorgd.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/pompoen-soep-recept.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3691,6 +3697,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/veganuary.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/vegan.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/veganistisch.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/plantaardig.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/terms.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4183,12 +4213,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/vegan.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/vega.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4214,12 +4238,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/vegetarisch.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/veganistisch.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -10321,12 +10339,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/plantaardig.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/detox.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11047,6 +11059,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11054,12 +11072,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/terms.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/food-trends.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11222,6 +11234,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/deliveroo-italie.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/vegan/page/2.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11456,12 +11474,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/bezorgen/page/2.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/vegan/page/2.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -12241,18 +12253,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/terms/page/2.html</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/2.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12368,6 +12368,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/21.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/terms/page/2.html</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
