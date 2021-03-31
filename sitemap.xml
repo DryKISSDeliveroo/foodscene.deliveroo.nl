@@ -2467,6 +2467,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/de-beste-paas-deals-bij-deliveroo.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/5-x-nieuw-in-zuidoost.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3115,6 +3121,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/word-een-food-rooviewer.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/promoties/krijg-drie-maanden-gratis-swapfiets.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3745,6 +3757,36 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/pasen.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/paasinspiratie.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/easter.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/brunch.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ontbijt.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/vegetarisch.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3991,6 +4033,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/food-rooviewer.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/food-reviewer.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/feestdagen.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4028,12 +4082,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/moederdag.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/brunch.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -5156,12 +5204,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/lekkerste-poke-bowls.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/pasen.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -7520,12 +7562,6 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/tosti.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ontbijt.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11365,6 +11401,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ontbijt/page/2.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ontbijt/page/3.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/tag/vegetarisch/page/2.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11977,18 +12025,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ontbijt/page/2.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ontbijt/page/3.html</loc>
-    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/dessert/page/2.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12032,6 +12068,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/curry/page/2.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/archive/2021/page/2.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -12500,6 +12542,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/21.html</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/food-trends/page/22.html</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
