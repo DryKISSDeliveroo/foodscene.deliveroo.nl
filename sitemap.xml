@@ -3781,24 +3781,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/tag/gouden-bitterbal.html</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/ek.html</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/tag/euros2020.html</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/tag/moederdag.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -4160,6 +4142,24 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/tag/amsterdam.html</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/gouden-bitterbal.html</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/ek.html</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/tag/euros2020.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -11293,13 +11293,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
+    <loc>https://foodscene.deliveroo.nl/food-trends.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/food-trends.html</loc>
+    <loc>https://foodscene.deliveroo.nl/promoties.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -12505,18 +12505,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://foodscene.deliveroo.nl/promoties/page/3.html</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/2.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -12638,6 +12626,18 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/food-trends/page/22.html</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/page/2.html</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/page/3.html</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
