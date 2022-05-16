@@ -3169,6 +3169,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/febo-cocacola-winactie.html</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://foodscene.deliveroo.nl/promoties/burgerking-goudenkroon-winactie-2022.html</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -3296,6 +3302,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/promoties/gratis-bezorging-vlaardingen-hoofddorp-leeuwarden.html</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/promoties/15euro-korting-nieuwe-klanten.html</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -13244,6 +13256,12 @@
   </url>
   <url>
     <loc>https://foodscene.deliveroo.nl/deliveroo/page/7.html</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://foodscene.deliveroo.nl/deliveroo/page/8.html</loc>
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
